@@ -4,7 +4,7 @@ When issue is created I'll make research to find more information about requeste
 
 #How to ask
 Create your request by opening [new issue](https://github.com/Artinov/topic-request/issues/new) in this repository.  
-Use english language to put together your questions and thoughts.
+**Use english language** to put together your questions and thoughts.  
 Shortly descript your question in issue title.  
 Feel free to write as much information as you want in issue commentary section.  
 It'll be nice if you give me some links (if there any) so I can clearly see what you want to hear from me.
